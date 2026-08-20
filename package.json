@@ -1,0 +1,13 @@
+{
+  "name": "idlemmo-bot",
+  "version": "0.1.0",
+  "description": "Automation companion for IdleMMO",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["idlemmo", "automation", "bot"],
+  "author": "SMMURDA",
+  "license": "MIT"
+}
